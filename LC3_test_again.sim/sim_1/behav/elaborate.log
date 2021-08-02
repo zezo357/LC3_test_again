@@ -1,0 +1,33 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 44b509d3c4ab42308dec1e79f6b6b7fa --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TEST_Bench_behav xil_defaultlib.TEST_Bench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/tb.v" Line 23. Module SimpleLC3 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/Regfile.v" Line 21. Module RegFile has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/Controller.v" Line 23. Module Controller has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/writeback.v" Line 22. Module Writeback has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/Memory.v" Line 22. Module mem has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.sim/sim_1/behav/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/tb.v" Line 23. Module SimpleLC3 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/Regfile.v" Line 21. Module RegFile has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/Controller.v" Line 23. Module Controller has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/writeback.v" Line 22. Module Writeback has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/Memory.v" Line 22. Module mem has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "F:/Vivadoprojects/LC3_test_again/LC3_test_again.sim/sim_1/behav/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.RegFile
+Compiling module xil_defaultlib.Controller
+Compiling module xil_defaultlib.Execute
+Compiling module xil_defaultlib.Fetch
+Compiling module xil_defaultlib.MemAccess
+Compiling module xil_defaultlib.Writeback
+Compiling module xil_defaultlib.Decode
+Compiling module xil_defaultlib.SimpleLC3
+Compiling module xil_defaultlib.mem
+Compiling module xil_defaultlib.TEST_Bench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TEST_Bench_behav

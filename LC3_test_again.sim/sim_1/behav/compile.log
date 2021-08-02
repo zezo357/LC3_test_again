@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/execute.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Execute
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/fetch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Fetch
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/memaccess.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MemAccess
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decode
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/writeback.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Writeback
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/Regfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/Controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SimpleLC3
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.srcs/sources_1/new/TEST_Bench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TEST_Bench
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Vivadoprojects/LC3_test_again/LC3_test_again.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
