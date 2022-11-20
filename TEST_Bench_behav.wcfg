@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TEST_Bench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TEST_Bench" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="324450000fs"></ZoomStartTime>
+      <ZoomEndTime time="450450001fs"></ZoomEndTime>
+      <Cursor1Time time="355000000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/TEST_Bench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/addr" type="array">
+      <obj_property name="ElementShortName">addr[15:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/din" type="array">
+      <obj_property name="ElementShortName">din[15:0]</obj_property>
+      <obj_property name="ObjectShortName">din[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/dout" type="array">
+      <obj_property name="ElementShortName">dout[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/rd" type="logic">
+      <obj_property name="ElementShortName">rd</obj_property>
+      <obj_property name="ObjectShortName">rd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/complete" type="logic">
+      <obj_property name="ElementShortName">complete</obj_property>
+      <obj_property name="ObjectShortName">complete</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/P/R1/R0" type="array">
+      <obj_property name="ElementShortName">R0[15:0]</obj_property>
+      <obj_property name="ObjectShortName">R0[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/M/writesignal" type="logic">
+      <obj_property name="ElementShortName">writesignal</obj_property>
+      <obj_property name="ObjectShortName">writesignal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/M/address" type="array">
+      <obj_property name="ElementShortName">address[15:0]</obj_property>
+      <obj_property name="ObjectShortName">address[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/M/writedata" type="array">
+      <obj_property name="ElementShortName">writedata[15:0]</obj_property>
+      <obj_property name="ObjectShortName">writedata[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/M/readdata" type="array">
+      <obj_property name="ElementShortName">readdata[15:0]</obj_property>
+      <obj_property name="ObjectShortName">readdata[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/M/complete" type="logic">
+      <obj_property name="ElementShortName">complete</obj_property>
+      <obj_property name="ObjectShortName">complete</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/M/memorycells" type="array">
+      <obj_property name="ElementShortName">memorycells[0:512][15:0]</obj_property>
+      <obj_property name="ObjectShortName">memorycells[0:512][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST_Bench/P/R1/RegFile" type="array">
+      <obj_property name="ElementShortName">RegFile[0:7][15:0]</obj_property>
+      <obj_property name="ObjectShortName">RegFile[0:7][15:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
